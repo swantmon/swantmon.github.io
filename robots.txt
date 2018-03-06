@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /extern/
+Disallow: /style/
+Disallow: /content/

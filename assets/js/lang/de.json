@@ -1,0 +1,35 @@
+{   
+    "lng-quote" : "My life is heavily influenced by graphics, MR and gaming!",
+
+    "lng-menu-about" 		: "Über Mich",
+    "lng-menu-publications" : "Publikationen",
+    "lng-menu-dev"          : "Development",
+    "lng-menu-photo"        : "Fotografie",
+    "lng-menu-contact"      : "Kontakt",
+
+    "lng-about-hello" 		   : "Hello and welcome",
+    "lng-about-hello-sub" 	   : "Good to see you here at my website. Check out everything you want to.",
+    "lng-about-text" 		   : "<p>A briefly welcome to my personal website with some informations about my publications, projects and research stuff. Moreover, there are some shots made with my Nikon. Maybe there are interesting for you. If you miss anything don't hesitate to <a href=\"#five\">contact me</a>.</p><p>So what is the general purpose of the website you are asking? It's is just about to show some things I'm working on. I don't want to show everything. Just the most important things round about:</p>",
+    "lng-about-list-code" 	   : "Projects & Coding",
+    "lng-about-list-dev" 	   : "Graphic Development",
+    "lng-about-list-coffee"    : "Drinking too much coffee",
+    "lng-about-list-research " : "Illumination in Mixed Reality",
+    "lng-about-text-more" 	   : "In general, I'm very interested and focused on lighting situations in Augmented Reality (AR) and Mixed Reality (MR) environments. Therefore I develop my own graphic engine (OpenGL, C++) to test and evaluate new approaches. You can find some screenshots in section <a href=\"#three\">Projects</a>.",
+
+    "lng-pub-header"     : "Publications",
+    "lng-pub-text"       : "These are my publications on my way to the Ph.D. at <a target=\"_blank\" href=\"http://www.tu-ilmenau.de/\">Ilmenau University of Technology</a>. I'm a research assistent at the research group <a target=\"_blank\" href=\"http://www.tu-ilmenau.de/vwdg/\">Virtual Worlds and Digital Games (VWDS)</a>.</br>Hopefully this list will be extended continuously. ;P",
+    "lng-pub-tbl-year"   : "Year",
+    "lng-pub-tbl-title"  : "Title",
+    "lng-pub-tbl-assets" : "Assets",
+
+    "lng-dev-header"           : "Publications",
+    "lng-dev-text"             : "Okay. Let's go with some projects from the past years. Most of them are related to my work at the university. It's simply a collection of projects.</br> But I would like to highlight my current project <emph>saltwater</emph>. It is graphic engine developed in C++ and OpenGL 4.5 (Vulkan is still in planing). Saltwater is the engine framework to create and test new approaches inside a AR/MR context. In general it is a little bit more then this. In fact it is possible to create little graphic applications with features like:",
+    "lng-dev-text-area-lights" : "Area lights are very important for a realistic and plausible rendering. Therefore, I've implemented area lights by using Heitz et al. <a target=\"_blank\" href=\"https://eheitzresearch.wordpress.com/415-2/\">Real-Time Polygonal-Light Shading with Linearly Transformed Cosines</a> approach.",
+    "lng-dev-text-ar"          : "Augmented Reality (AR) is a very modern und upgrowing technology and one way to holograms. However, for now we have to solve several problems in AR like tracking and illumination. I try to reconstruct the environment lighting.",
+    "lng-dev-text-rsm"         : "With the help of Reflective Shadow Maps (RSM) it is possible to create a realistic indirect lighting. This shot was made in combination with Screen Space Reflections.",
+    "lng-dev-text-pbr"         : "The shading is based on the article <a target=\"_blank\" href=\"http://www.frostbite.com/2014/11/moving-frostbite-to-pbr/\">Moving Frostbite to Physically Based Rendering 2.0</a> by Sébastien Lagarde and Charles de Rousiers. I adopted some code parts for my saltwater engine.",
+
+    "lng-photo-header" : "Photography",
+
+    "lng-contact-header" : "Contact Me",
+}
